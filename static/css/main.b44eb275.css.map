@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b44eb275.css","mappings":"AAAA,YACE,qBAAuB,CACvB,kBAAmB,CACnB,kBACF","sources":["index.css"],"sourcesContent":[".decoration{\n  border: 1px solid black;\n  margin-bottom: 1rem;\n  padding: .5rem 1rem;\n}\n"],"names":[],"sourceRoot":""}
